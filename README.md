@@ -2,6 +2,7 @@
 
 <div>
   <a href="https://tenor.com/pt-BR/view/cat-computer-typing-fast-gif-5368357" target="_blank"></a>
+</div>
 
 <!--
 **IsabelAraujodev/IsabelAraujodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
