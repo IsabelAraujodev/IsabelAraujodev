@@ -6,16 +6,20 @@
 
 ## Skills:
 
-**Languages**
+**Languages:**
+
 Javascript | Solidity | Python | Go
 
-**Utilities**
+**Utilities:**
+
 Insomnia | Postman | 
   
-**DevOps**
+**DevOps:**
+
 Git | Github | Docker | AWS | Travis
 
-**Development tools**
+**Development tools:**
+
 Visual Studio Code | Trello | Figma | Hardhat
 
 ## Where to find me
