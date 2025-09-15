@@ -1,42 +1,29 @@
-### Olá 👋
+## About me:
 
+* I have a Bachelor's degree in Systems Analysis and Development
+* Exploring new technologies and developing software solutions
+* Blockchain developer with certifications in the field
 
-<!--
-**IsabelAraujodev/IsabelAraujodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
 
-Here are some ideas to get you started:
+**Languages**
+Javascript | Solidity | Python | Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Linguagens:
-
-* JavaScript
-* Solidity
-* Python
-
-## Ferramentas:
-
-* React
-* AWS
-* Docker
+**Utilities**
+Insomnia | Postman | 
   
+**DevOps**
+Git | Github | Docker | AWS | Travis
 
-## Contatos:
+**Development tools**
+Visual Studio Code | Trello | Figma | Hardhat
 
-<div>
-<a href = "mailto:isabelcaaraujo@hotmail.com"><img src="https://img.icons8.com/fluency/48/null/apple-mail.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isabelaraujodev" target="_blank"><img src="https://img.icons8.com/color/48/null/linkedin.png" target="_blank"></a>   
-</div>
+## Where to find me
 
+[![Gmail Badge](https://img.shields.io/badge/isabelcaaraujo@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelcaaraujo@hotmail.com)](mailto:isabelcaaraujo@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/IsabelAraujodev)
 
-## Análise:
+## Analysis:
 <div>
 <a href="https://github.com/isabelaraujodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaraujodev&layout=compact&langs_count=7&theme=dracula"/>
