@@ -1,26 +1,23 @@
 ## About me:
 
-* I have a Bachelor's degree in Systems Analysis and Development
-* Exploring new technologies and developing software solutions
-* Blockchain developer with certifications in the field
+Web3 Secutity Auditor specialized in smart contract auditing and Web3 protocol security, with a focus on identifying, validating, and clearly communicating vulnerabilities. Experience across DeFi, token systems, and upgradeable contracts.
 
 ## Skills:
 
-**Languages:**
+- Smart Contract Auditing (Solidity / Vyper)
+- Vulnerability Detection & Exploitation
+- DeFi Protocol Analysis (AMMs, Lending, Staking)
+- Access Control & Upgradeability (Proxy Patterns)
+- Fuzzing & Invariant Testing
+- Security Reporting & Remediation Guidance
 
-Javascript | Solidity | Python | Go
+## Tooling
 
-**Utilities:**
-
-Insomnia | Postman | 
-  
-**DevOps:**
-
-Git | Github | Docker | AWS | Travis
-
-**Development tools:**
-
-Visual Studio Code | Trello | Figma | Hardhat
+- Foundry
+- Hardhat
+- Slither
+- Solidity
+- typescript
 
 ## Where to find me
 
